@@ -1,1 +1,60 @@
-"# Machine Learning Perfect Guide Study" 
+# Machine Learning Perfect Guide Study
+
+- 파이썬 머신러닝 완벽 가이드 스터디
+
+## 스터디 목적
+
+- 머신러닝 애플리케이션 전반에 대한 체계적 복습
+
+## 스터디 방식
+
+1. 인프런 - 파이썬 머신러닝 완벽 가이드 동영상 강의 수강
+
+2. 파이썬 머신러닝 완벽 가이드 교재로 복습
+3. 깃헙 코드로 3차 복습
+
+## 목차
+
+1. 파이썬 기반의 머신러닝과 생태계 이해 (~p.86)
+
+- Numpy, Pandas
+
+2. 사이킷런으로 시작하는 머신러닝 (~p.142)
+
+- sklearn 프레임워크, Model Selection, 데이터 전처리
+
+3. 평가 (~p.178)
+
+- Accuracy, 오차 행렬, Precision & Recall, Confusion Matrix, F1 Score, ROC/AUC
+
+4. 분류 (~p.285)
+
+- Decision Tree, Ensemble, Random Forest, Gradient Boosting Machine, XGBoost, LightGBM, Under Sampling/Over Sampling, Stacking
+
+5. 회귀 (~p.372)
+
+- Linear Regression, Bias-Variance Trade off, Lidge, Rasso, ElasticNet, Logistic Regression, Regression Tree
+
+6. 차원 축소 (~p.404)
+
+- PCA, LDA, SVD, NMF
+
+7. 군집화 (~p.459)
+
+- K-means, Cluster Evaluation, Mean Shift, GMM, DBSCAN
+
+8. 텍스트 분석 (~p.555)
+9. 추천 시스템 (~p.619)
+
+※ 8. 텍스트 분석은 추후 다룰 예정이며, 9. 추천 시스템을 다루지 않을 예정
+
+## 스터디 일지
+
+- 2019.11.07
+  - 인프런 - [파이썬 머신러닝 완벽 가이드 강의]( [https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C#](https://www.inflearn.com/course/파이썬-머신러닝-완벽가이드#) ) 구매
+  - [파이썬 머신러닝 완벽 가이드 교재]( http://www.yes24.com/Product/Goods/69752484?scode=032&OzSrank=1 ) 구매
+- 2019.11.07 ~ 11.08
+  - 1장  파이썬 기반의 머신러닝과 생태계 이해 강의 완강, 교재 읽기, 코드 리뷰
+    - Numpy, Pandas
+  - 머신러닝 기본과 Numpy, Pandas 관련 내용이므로 굳이할 필요는 없었지만 팁이 될만한 부분을 건질 수 있을 것을 기대하고 아주 빠른 속도로 공부함
+  - 데이터 분석시 헷갈릴 만한 것들 교재에 표시해둠
