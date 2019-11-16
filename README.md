@@ -77,7 +77,7 @@
 
   - 4장  분류 강의 완강, 교재 읽기, 코드 리뷰
 
-    - Decision Tree, Ensemble(voting, bagging, boosting), GBM, XGBoost, LightBoost, SMOTE, Stacking
+    - Decision Tree, Ensemble(voting, bagging, boosting), GBM, XGBoost, LightBoost, Over/Under Sampling(SMOTE), Stacking
 
   - 모델 학습 코드에 집중하여 복습함
   
