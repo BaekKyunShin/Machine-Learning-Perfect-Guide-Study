@@ -9,7 +9,7 @@
 ## 스터디 방식
 
 1. 인프런 - 파이썬 머신러닝 완벽 가이드 동영상 강의 수강
-- 총 119강, 26시간
+   - 총 119강, 26시간
 2. 파이썬 머신러닝 완벽 가이드 교재로 복습
    - 총 620페이지
 3. 깃헙 코드로 3차 복습
@@ -72,5 +72,14 @@
 
     - Accuracy, Confusion Matrix, Precison and Recall, F1 Score, ROC/AUC
 
+
+- 2019.11.13 ~ 11.16
+
+  - 4장  분류 강의 완강, 교재 읽기, 코드 리뷰
+
+    - Decision Tree, Ensemble(voting, bagging, boosting), GBM, XGBoost, LightBoost, SMOTE, Stacking
+
+  - 모델 학습 코드에 집중하여 복습함
+  
     
 
