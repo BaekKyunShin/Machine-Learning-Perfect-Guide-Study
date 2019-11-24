@@ -78,8 +78,14 @@
   - 4장  분류 강의 완강, 교재 읽기, 코드 리뷰
 
     - Decision Tree, Ensemble(voting, bagging, boosting), GBM, XGBoost, LightBoost, Over/Under Sampling(SMOTE), Stacking
-
   - 모델 학습 코드에 집중하여 복습함
   
-    
+- 2019.11.17 ~ 11.21
+
+  - 5장  회귀 강의 완강, 교재 읽기, 코드 리뷰
+  
+    - Gradient Descent, Stochastic Gradient Descent, Linear Regression, Polynomial Regression, Regularized Linear Models (Ridge, Lasso, ElasticNet), Logistic Regression, Tree Regression, Preprocessing(Scaling, Log Transformation, Feature Encoding), Mixed Model Prediction
+  - 각 휘귀 모델 별 차이점 숙지
+  - 스케일링, 인코딩, 아웃라이어 제거, 하이퍼 파라미터 튜닝에 따라 예측 성능이 향상되는 흐름 복습
+  
 
