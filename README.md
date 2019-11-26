@@ -79,7 +79,6 @@
 
     - Decision Tree, Ensemble(voting, bagging, boosting), GBM, XGBoost, LightBoost, Over/Under Sampling(SMOTE), Stacking
   - 모델 학습 코드에 집중하여 복습함
-  
 - 2019.11.17 ~ 11.21
 
   - 5장  회귀 강의 완강, 교재 읽기, 코드 리뷰
@@ -87,5 +86,8 @@
     - Gradient Descent, Stochastic Gradient Descent, Linear Regression, Polynomial Regression, Regularized Linear Models (Ridge, Lasso, ElasticNet), Logistic Regression, Tree Regression, Preprocessing(Scaling, Log Transformation, Feature Encoding), Mixed Model Prediction
   - 각 휘귀 모델 별 차이점 숙지
   - 스케일링, 인코딩, 아웃라이어 제거, 하이퍼 파라미터 튜닝에 따라 예측 성능이 향상되는 흐름 복습
-  
+- 2019.11.22 ~ 11.24
+  - 6장  차원 축소
+    - 차원 축소 (피쳐 선택, 피쳐 추출), PCA(Principal Component Analysis), LDA(Linear Discriminant Analysis), SVD(Singular Value Decomposition), Truncated SVD, NMF(Non-Negative Matrix Fatorization)
+  - 각 차원 축소 기법 별 선형 대수적 의미를 최대한 이해하며 학습
 
