@@ -90,4 +90,7 @@
   - 6장  차원 축소
     - 차원 축소 (피쳐 선택, 피쳐 추출), PCA(Principal Component Analysis), LDA(Linear Discriminant Analysis), SVD(Singular Value Decomposition), Truncated SVD, NMF(Non-Negative Matrix Fatorization)
   - 각 차원 축소 기법 별 선형 대수적 의미를 최대한 이해하며 학습
-
+- 2019.11.25 ~ 11.28
+  - 7장  군집화
+    - K-means, Cluster Evaluation(실루엣 계수), Mean Shift, GMM, DBSCAN
+  - 각 차원 축소 기법 별 선형 대수적 의미를 최대한 이해하며 학습
